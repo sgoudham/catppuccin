@@ -896,7 +896,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 <!-- AUTOGEN:PORTLIST START -->
 <!-- the following section is auto-generated, do not edit -->
-<details open>
+<details>
 <summary>👾 Code Editors & IDEs</summary>
 
 - [Binary Ninja](https://github.com/catppuccin/binary-ninja)
@@ -921,7 +921,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Xed](https://github.com/catppuccin/xed)
 
 </details>
-<details open>
+<details>
 <summary>💭 Development tools</summary>
 
 - [CodeMirror](https://github.com/catppuccin/codemirror)
@@ -935,7 +935,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Vercel](https://github.com/catppuccin/vercel)
 
 </details>
-<details open>
+<details>
 <summary>📚 Libraries</summary>
 
 - [Go](https://github.com/catppuccin/go)
@@ -945,7 +945,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [UI](https://github.com/catppuccin/ui)
 
 </details>
-<details open>
+<details>
 <summary>🐚 CLI tools</summary>
 
 - [bat](https://github.com/catppuccin/bat)
@@ -967,7 +967,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting)
 
 </details>
-<details open>
+<details>
 <summary>🌱 Terminals</summary>
 
 - [Alacritty](https://github.com/catppuccin/alacritty)
@@ -997,7 +997,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Zutty](https://github.com/catppuccin/zutty)
 
 </details>
-<details open>
+<details>
 <summary>🔧 System</summary>
 
 - [Base16](https://github.com/catppuccin/base16)
@@ -1032,7 +1032,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Xresources](https://github.com/catppuccin/xresources)
 
 </details>
-<details open>
+<details>
 <summary>🏄 Browsers</summary>
 
 - [Firefox](https://github.com/catppuccin/firefox)
@@ -1041,7 +1041,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Vivaldi](https://github.com/catppuccin/vivaldi)
 
 </details>
-<details open>
+<details>
 <summary>🧩 Browser Extensions</summary>
 
 - [Dark Reader](https://github.com/catppuccin/dark-reader)
@@ -1051,7 +1051,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Vimium](https://github.com/catppuccin/vimium)
 
 </details>
-<details open>
+<details>
 <summary>🔎 Search Engines</summary>
 
 - [SearXNG](https://github.com/catppuccin/SearXNG)
@@ -1059,7 +1059,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Whoogle](https://github.com/catppuccin/whoogle)
 
 </details>
-<details open>
+<details>
 <summary>💬 Messaging</summary>
 
 - [Aliucord](https://github.com/catppuccin/aliucord)
@@ -1075,7 +1075,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [The Lounge](https://github.com/catppuccin/thelounge)
 
 </details>
-<details open>
+<details>
 <summary>📝 Note taking</summary>
 
 - [Joplin](https://github.com/catppuccin/joplin)
@@ -1084,7 +1084,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Remnote](https://github.com/catppuccin/remnote)
 
 </details>
-<details open>
+<details>
 <summary>🗂️ Productivity</summary>
 
 - [Alfred](https://github.com/catppuccin/alfred)
@@ -1110,7 +1110,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Zathura](https://github.com/catppuccin/zathura)
 
 </details>
-<details open>
+<details>
 <summary>✨ Social</summary>
 
 - [Elk](https://github.com/catppuccin/elk)
@@ -1127,7 +1127,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [YouTube](https://github.com/catppuccin/youtube)
 
 </details>
-<details open>
+<details>
 <summary>🌈 Leisure</summary>
 
 - [Amfora](https://github.com/catppuccin/amfora)
@@ -1145,7 +1145,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [YouTube Music](https://github.com/catppuccin/youtubemusic)
 
 </details>
-<details open>
+<details>
 <summary>🎮 Games</summary>
 
 - [BitBurner](https://github.com/catppuccin/bitburner)
