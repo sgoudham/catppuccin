@@ -912,6 +912,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Neovim](https://github.com/catppuccin/nvim)
 - [Notepad++](https://github.com/catppuccin/notepad-plus-plus)
 - [Nova](https://github.com/catppuccin/nova)
+- [Replit](https://github.com/catppuccin/replit)
 - [spyder](https://github.com/catppuccin/spyder)
 - [Sublime Text](https://github.com/catppuccin/sublime-text)
 - [Vim](https://github.com/catppuccin/vim)
@@ -1054,6 +1055,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details>
 <summary>🔎 Search Engines</summary>
 
+- [NixOS Search](https://github.com/catppuccin/nixos-search)
 - [SearXNG](https://github.com/catppuccin/SearXNG)
 - [Startpage](https://github.com/catppuccin/startpage)
 - [Whoogle](https://github.com/catppuccin/whoogle)

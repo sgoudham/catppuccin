@@ -467,6 +467,12 @@ ports:
         platform: userstyle
         icon: twitter
         color: blue
+    nixos-search:
+        name: NixOS Search
+        category: search_engine
+        platform: userstyle
+        icon: nixos
+        color: blue
     noir:
         name: Noir
         category: browser_extension
@@ -578,6 +584,10 @@ ports:
     remnote:
         name: Remnote
         category: note_taking
+        platform: agnostic
+    replit:
+        name: Replit
+        category: code_editor
         platform: agnostic
     revolt:
         name: Revolt
