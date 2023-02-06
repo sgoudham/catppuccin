@@ -1,4 +1,9 @@
 ports:
+    winston:
+        name: winston
+        category: winston
+        color: winston
+        platform: winston
     alacritty:
         name: Alacritty
         category: terminal
