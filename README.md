@@ -901,12 +901,14 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Binary Ninja](https://github.com/catppuccin/binary-ninja)
 - [Cutter](https://github.com/catppuccin/cutter)
+- [DrRacket](https://github.com/catppuccin/drracket)
 - [Emacs](https://github.com/catppuccin/emacs)
 - [Geany](https://github.com/catppuccin/geany)
 - [Gedit](https://github.com/catppuccin/gedit)
 - [Helix](https://github.com/catppuccin/helix)
 - [JetBrains](https://github.com/catppuccin/jetbrains)
 - [Kakoune](https://github.com/catppuccin/kakoune)
+- [KSyntaxHighlighting (Kate, Kwrite, etc)](https://github.com/catppuccin/ksyntaxhighlighting)
 - [Lapce](https://github.com/catppuccin/lapce)
 - [Micro](https://github.com/catppuccin/micro)
 - [Neovim](https://github.com/catppuccin/nvim)
@@ -959,10 +961,11 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Glamour](https://github.com/catppuccin/glamour)
 - [k9s](https://github.com/catppuccin/k9s)
 - [Lazygit](https://github.com/catppuccin/lazygit)
-- [Midning Commander](https://github.com/catppuccin/mc)
+- [Midnight Commander](https://github.com/catppuccin/mc)
 - [NeoMutt](https://github.com/catppuccin/neomutt)
 - [Newsboat](https://github.com/catppuccin/newsboat)
 - [sc-im](https://github.com/catppuccin/sc-im)
+- [Starship](https://github.com/catppuccin/starship)
 - [tmux](https://github.com/catppuccin/tmux)
 - [Zellij](https://github.com/catppuccin/zellij)
 - [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting)
@@ -976,12 +979,14 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Blink](https://github.com/catppuccin/blink)
 - [Contour](https://github.com/catppuccin/contour)
 - [CRT: cool-retro-term](https://github.com/catppuccin/crt)
+- [Fluent Terminal](https://github.com/catppuccin/fluentterminal)
 - [foot](https://github.com/catppuccin/foot)
 - [GNOME Terminal](https://github.com/catppuccin/gnome-terminal)
 - [Hyper](https://github.com/catppuccin/hyper)
 - [iTerm2](https://github.com/catppuccin/iterm)
 - [Kitty](https://github.com/catppuccin/kitty)
 - [Konsole](https://github.com/catppuccin/konsole)
+- [LXTerminal](https://github.com/catppuccin/lxterminal)
 - [QTerminal](https://github.com/catppuccin/qterminal)
 - [st](https://github.com/catppuccin/st)
 - [Tabby](https://github.com/catppuccin/tabby)
@@ -1055,6 +1060,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details>
 <summary>🔎 Search Engines</summary>
 
+- [Brave Search](https://github.com/catppuccin/brave-search)
+- [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
 - [NixOS Search](https://github.com/catppuccin/nixos-search)
 - [SearXNG](https://github.com/catppuccin/SearXNG)
 - [Startpage](https://github.com/catppuccin/startpage)
@@ -1092,10 +1099,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Alfred](https://github.com/catppuccin/alfred)
 - [Anki](https://github.com/catppuccin/anki)
 - [Bento](https://github.com/catppuccin/bento)
-- [Brave Search](https://github.com/catppuccin/brave-search)
 - [Codeberg](https://github.com/catppuccin/codeberg)
 - [DeepL](https://github.com/catppuccin/deepl)
-- [DuckDuckGo](https://github.com/catppuccin/duckduckgo)
 - [Foliate](https://github.com/catppuccin/foliate)
 - [GitHub](https://github.com/catppuccin/github)
 - [ichi.moe](https://github.com/catppuccin/ichi.moe)
@@ -1123,6 +1128,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Invidious](https://github.com/catppuccin/invidious)
 - [Libreddit](https://github.com/catppuccin/libreddit)
 - [Mastodon](https://github.com/catppuccin/mastodon)
+- [Misskey](https://github.com/catppuccin/misskey)
 - [Nitter](https://github.com/catppuccin/nitter)
 - [Reddit](https://github.com/catppuccin/reddit)
 - [Twitch](https://github.com/catppuccin/twitch)
@@ -1134,6 +1140,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 - [Amfora](https://github.com/catppuccin/amfora)
 - [AniList](https://github.com/catppuccin/anilist)
+- [Dopamine](https://github.com/catppuccin/dopamine)
 - [Home Assistant](https://github.com/catppuccin/home-assistant)
 - [Last.fm](https://github.com/catppuccin/lastfm)
 - [monkeytype](https://github.com/catppuccin/monkeytype)
@@ -1178,6 +1185,7 @@ If you're making an application or tool using our palette, please let us know by
 - [flotes.app](https://flotes.app/) - A free note-taking app enhanced with flashcard features
 - [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Highly customizable theme for [Obsidian](https://obsidian.md)
 - [faerber](https://farbenfroh.io/faerber) - Website for applying custom color schemes to any wallpaper
+- [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) - A simple music player based on Material You design
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;

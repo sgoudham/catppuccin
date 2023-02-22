@@ -67,7 +67,7 @@ ports:
         platform: [linux, macos, windows]
     brave-search:
         name: Brave Search
-        category: productivity
+        category: search_engine
         platform: userstyle
         icon: brave
         color: peach
@@ -137,9 +137,20 @@ ports:
         name: dmenu
         category: system
         platform: [linux]
+    dopamine:
+        name: Dopamine
+        category: leisure
+        platform: [linux, macos, windows]
+        color: blue
+    drracket:
+        name: DrRacket
+        category: code_editor
+        platform: [linux, macos, windows]
+        color: red
+        icon: racket
     duckduckgo:
         name: DuckDuckGo
-        category: productivity
+        category: search_engine
         platform: userstyle
         color: peach
     dunst:
@@ -191,6 +202,10 @@ ports:
         name: FlorisBoard
         category: system
         platform: [android]
+    fluentterminal:
+        name: Fluent Terminal
+        category: terminal
+        platform: [windows]
     foliate:
         name: Foliate
         category: productivity
@@ -363,6 +378,10 @@ ports:
         platform: [linux]
         icon: kde
         color: blue
+    ksyntaxhighlighting:
+        name: KSyntaxHighlighting (Kate, Kwrite, etc)
+        category: code_editor
+        platform: [linux, macos, windows]
     lapce:
         name: Lapce
         category: code_editor
@@ -395,6 +414,12 @@ ports:
         platform: [linux]
         icon: lxqt.svg
         color: sky
+    lxterminal:
+        name: LXTerminal
+        category: terminal
+        platform: [linux]
+        icon: lxqt.svg
+        color: sky
     mailspring:
         name: Mailspring
         category: productivity
@@ -416,7 +441,7 @@ ports:
         category: messaging
         platform: agnostic
     mc:
-        name: Midning Commander
+        name: Midnight Commander
         category: cli
         platform: [linux, macos]
     mdBook:
@@ -433,6 +458,10 @@ ports:
         name: Minecraft
         category: game
         platform: [linux, macos, windows]
+    misskey:
+        name: Misskey
+        category: social
+        platform: agnostic
     modrinth:
         name: Modrinth
         category: game
@@ -662,6 +691,10 @@ ports:
         name: Stable Diffusion WebUI
         category: leisure
         platform: userstyle
+    starship:
+        name: Starship
+        category: cli
+        platform: [linux, macos, windows]
     startpage:
         name: Startpage
         category: search_engine
@@ -939,4 +972,7 @@ showcases:
     - title: faerber
       description: Website for applying custom color schemes to any wallpaper
       link: https://farbenfroh.io/faerber
+    - title: Simple MP
+      description: A simple music player based on Material You design
+      link: https://github.com/lighttigerXIV/SimpleMP-Compose
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
